@@ -117,9 +117,10 @@ tempfile table4_5
 save "`table4_5'"
 
 
-********************************************************************
+*******************************************************************************************************
 *Prepare UN SNA Table 4.9 (2015 missing for Iceland as of July 2021)
-********************************************************************
+*For operating surplus: OECD SNA Table 13 has no data on Iceland, so use UN Table 4.9 for all countries
+*******************************************************************************************************
 
 *Import UN SNA table 4.9
 import delimited "RawData${MySlash}UN_TABLE4.9.csv", clear
@@ -132,7 +133,9 @@ keep if inlist(country,"Canada","France","Germany","Italy","Japan","United Kingd
 
 *Rename the values of item (variable names)
 replace item = "DT" if item == "Current taxes on income, wealth, etc."
-keep if item == "DT"
+replace item = "OPS" if item == "OPERATING SURPLUS, GROSS"
+replace item = "MI" if item == "MIXED INCOME, GROSS"
+keep if inlist(item,"DT","OPS","MI")
 
 *Only keep relevant variables
 keep country item year value
@@ -145,6 +148,10 @@ foreach var of varlist value* {
 	local newname = substr("`var'", 6, .)
 	ren `var' `newname'
 }
+
+*Compute operating surplus
+gen OPSUE = MI+OPS
+drop MI OPS
 
 *Save tempfile
 tempfile table4_9
@@ -182,45 +189,6 @@ replace W = 1000000*W
 *Save tempfile
 tempfile table2
 save "`table2'"
-
-
-***************************************************************************************************
-*Problem for OPSUE: OECD SNA Table 13 has no data on Iceland, so use UN Table 4.9 for all countries
-***************************************************************************************************
-
-*Import UN SNA table 4.9
-import delimited "RawData${MySlash}UN_TABLE4.9.csv", clear
-
-*Rename
-ren countryorarea country
-
-*Keep SNA2008 (latest revision)
-keep if inlist(country,"Canada","France","Germany","Italy","Japan","United Kingdom","United States","Switzerland","Iceland") & inlist(series,1000)
-
-*Rename the values of item (variable names)
-replace item = "OPS" if item == "OPERATING SURPLUS, GROSS"
-replace item = "MI" if item == "MIXED INCOME, GROSS"
-keep if item == "OPS" | item == "MI"
-
-*Only keep relevant variables
-keep country item year value
-
-*Reshape from wide to long
-reshape wide value, i(country year) j(item) string
-
-*Rename variables
-foreach var of varlist value* {
-	local newname = substr("`var'", 6, .)
-	ren `var' `newname'
-}
-
-*Compute OPSUE
-gen OPSUE = MI+OPS
-drop MI OPS
-
-*Save tempfile
-tempfile table4_9_OPSUE
-save "`table4_9_OPSUE'"
 
 
 ******************************************
@@ -315,9 +283,6 @@ merge 1:1 country year using "`table4_9'"
 drop _merge
 
 merge 1:1 country year using "`table2'"
-drop _merge
-
-merge 1:1 country year using "`table4_9_OPSUE'"
 drop _merge
 
 merge 1:1 country year using "`CIV_EMPL'"
@@ -423,7 +388,7 @@ foreach v of local varlist{
 
 *Print results in LaTeX table
 forval z = 1/1 {
-	qui log using "Tables${MySlash}Table_1_inputs.tex", text append
+	qui log using "Tables${MySlash}Table_1_inputs_CH_ICE.tex", text append
 	foreach c of local countries {
 		di "`c'     & `c_y_table_1_`c'_m'       & `alpha_`c'_m'        & `tau_ss_table_1_`c'_m'          & `tau_inc_`c'_m'     \\"
 		di "            & `c_y_table_1_`c'_s'      & `alpha_`c'_s'       & `tau_ss_table_1_`c'_s'         & `tau_inc_`c'_s'     \\"
@@ -444,7 +409,7 @@ replace country = "United_States" if country == "United States"
 
 *Print LaTeX table header
 forval z = 1/1 {
-	qui log using "Tables${MySlash}Table_4_inputs.tex", text replace
+	qui log using "Tables${MySlash}Table_4_inputs_all.tex", text replace
 	di "\begin{tabular}{lcccc}"
 	di "& \multicolumn{1}{c}{$\displaystyle \frac{c}{y}$}"
 	di "& \multicolumn{1}{c}{$\alpha$}"
