@@ -392,7 +392,7 @@ gen tau_inc = 1.6*avg_tau_inc
 
 *Print LaTeX table header
 forval z = 1/1 {
-	qui log using "Tables${MySlash}Table_1_inputs.tex", text replace
+	qui log using "Tables${MySlash}Table_1_inputs_CH_ICE.tex", text replace
 	di "\begin{tabular}{lcccc}"
 	di "& \multicolumn{1}{c}{$\displaystyle \frac{c}{y}$}"
 	di "& \multicolumn{1}{c}{$\alpha$}"
@@ -468,7 +468,7 @@ foreach v of local varlist{
 
 *Print results in LaTeX table
 forval z = 1/1 {
-	qui log using "Tables${MySlash}Table_4_inputs.tex", text append
+	qui log using "Tables${MySlash}Table_4_inputs_all.tex", text append
 	foreach c of local countries {
 		if "`c'" == "United_Kingdom" {
 			di "United Kingdom     & `c_y_table_4_`c'_m'       & `alpha_`c'_m'        & `tau_ss_table_4_`c'_m'          & `tau_inc_`c'_m'     \\"
