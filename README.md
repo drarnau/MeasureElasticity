@@ -12,7 +12,7 @@ Proceed as follows to replicate all the tables and figures in the paper.
     - Produces all plots in Figures 1 and 2 in `.eps` format.
     - Produces Tables 2 and 3 of the paper in latex format.
 
-Both codes store all in folder `Tables/` and all plots in folder `Figures/`.  
+Both codes store all tables in folder `Tables/` and all plots in folder `Figures/`.  
 Below we detail all the files in `RawData/`.
 We provide the URLs from which we have downloaded the files.
 
