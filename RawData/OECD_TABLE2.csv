@@ -1,0 +1,456 @@
+﻿"LOCATION","Country","TRANSACT","Transaction","MEASURE","Measure","TIME","Year","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1970","1970","CAD","Canadian Dollar","6","Millions",,,48866.893,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1971","1971","CAD","Canadian Dollar","6","Millions",,,53572.424,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1972","1972","CAD","Canadian Dollar","6","Millions",,,60128.556,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1973","1973","CAD","Canadian Dollar","6","Millions",,,69265.528,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1974","1974","CAD","Canadian Dollar","6","Millions",,,82597.864,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1975","1975","CAD","Canadian Dollar","6","Millions",,,96337.332,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1976","1976","CAD","Canadian Dollar","6","Millions",,,111448.247,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1977","1977","CAD","Canadian Dollar","6","Millions",,,123430.144,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1978","1978","CAD","Canadian Dollar","6","Millions",,,134259.666,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1979","1979","CAD","Canadian Dollar","6","Millions",,,150995.109,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1980","1980","CAD","Canadian Dollar","6","Millions",,,170697.517,"E","Estimated value"
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1981","1981","CAD","Canadian Dollar","6","Millions",,,196780,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1982","1982","CAD","Canadian Dollar","6","Millions",,,210149,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1983","1983","CAD","Canadian Dollar","6","Millions",,,220342,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1984","1984","CAD","Canadian Dollar","6","Millions",,,237295,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1985","1985","CAD","Canadian Dollar","6","Millions",,,255899,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1986","1986","CAD","Canadian Dollar","6","Millions",,,272834,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1987","1987","CAD","Canadian Dollar","6","Millions",,,296539,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1988","1988","CAD","Canadian Dollar","6","Millions",,,325358,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1989","1989","CAD","Canadian Dollar","6","Millions",,,350860,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1990","1990","CAD","Canadian Dollar","6","Millions",,,370004,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1991","1991","CAD","Canadian Dollar","6","Millions",,,380599,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1992","1992","CAD","Canadian Dollar","6","Millions",,,389757,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1993","1993","CAD","Canadian Dollar","6","Millions",,,396616,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1994","1994","CAD","Canadian Dollar","6","Millions",,,407635,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1995","1995","CAD","Canadian Dollar","6","Millions",,,421128,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1996","1996","CAD","Canadian Dollar","6","Millions",,,431742,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1997","1997","CAD","Canadian Dollar","6","Millions",,,456324,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1998","1998","CAD","Canadian Dollar","6","Millions",,,480971,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","1999","1999","CAD","Canadian Dollar","6","Millions",,,507126,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2000","2000","CAD","Canadian Dollar","6","Millions",,,552023,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2001","2001","CAD","Canadian Dollar","6","Millions",,,574795,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2002","2002","CAD","Canadian Dollar","6","Millions",,,597153,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2003","2003","CAD","Canadian Dollar","6","Millions",,,621208,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2004","2004","CAD","Canadian Dollar","6","Millions",,,656758,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2005","2005","CAD","Canadian Dollar","6","Millions",,,693437,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2006","2006","CAD","Canadian Dollar","6","Millions",,,738263,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2007","2007","CAD","Canadian Dollar","6","Millions",,,783930,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2008","2008","CAD","Canadian Dollar","6","Millions",,,819727,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2009","2009","CAD","Canadian Dollar","6","Millions",,,812073,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2010","2010","CAD","Canadian Dollar","6","Millions",,,837683,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2011","2011","CAD","Canadian Dollar","6","Millions",,,883045,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2012","2012","CAD","Canadian Dollar","6","Millions",,,923413,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2013","2013","CAD","Canadian Dollar","6","Millions",,,961179,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2014","2014","CAD","Canadian Dollar","6","Millions",,,998463,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2015","2015","CAD","Canadian Dollar","6","Millions",,,1026846,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2016","2016","CAD","Canadian Dollar","6","Millions",,,1026483,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2017","2017","CAD","Canadian Dollar","6","Millions",,,1069956,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2018","2018","CAD","Canadian Dollar","6","Millions",,,1126948,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2019","2019","CAD","Canadian Dollar","6","Millions",,,1176732,,
+"CAN","Canada","D1","Compensation of employees","C","Current prices","2020","2020","CAD","Canadian Dollar","6","Millions",,,1157193,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1970","1970","EUR","Euro","6","Millions",,,62434,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1971","1971","EUR","Euro","6","Millions",,,70429,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1972","1972","EUR","Euro","6","Millions",,,78729,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1973","1973","EUR","Euro","6","Millions",,,90584,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1974","1974","EUR","Euro","6","Millions",,,108284,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1975","1975","EUR","Euro","6","Millions",,,127762,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1976","1976","EUR","Euro","6","Millions",,,148592,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1977","1977","EUR","Euro","6","Millions",,,168994,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1978","1978","EUR","Euro","6","Millions",,,191414,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1979","1979","EUR","Euro","6","Millions",,,217398,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1980","1980","EUR","Euro","6","Millions",,,249939,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1981","1981","EUR","Euro","6","Millions",,,283796,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1982","1982","EUR","Euro","6","Millions",,,325576,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1983","1983","EUR","Euro","6","Millions",,,357697,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1984","1984","EUR","Euro","6","Millions",,,384137,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1985","1985","EUR","Euro","6","Millions",,,406582,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1986","1986","EUR","Euro","6","Millions",,,426650,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1987","1987","EUR","Euro","6","Millions",,,445178,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1988","1988","EUR","Euro","6","Millions",,,470148,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1989","1989","EUR","Euro","6","Millions",,,500487,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1990","1990","EUR","Euro","6","Millions",,,534318,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1991","1991","EUR","Euro","6","Millions",,,557854,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1992","1992","EUR","Euro","6","Millions",,,579326,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1993","1993","EUR","Euro","6","Millions",,,588763,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1994","1994","EUR","Euro","6","Millions",,,600828,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1995","1995","EUR","Euro","6","Millions",,,622234,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1996","1996","EUR","Euro","6","Millions",,,639569,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1997","1997","EUR","Euro","6","Millions",,,656177,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1998","1998","EUR","Euro","6","Millions",,,681060,,
+"FRA","France","D1","Compensation of employees","C","Current prices","1999","1999","EUR","Euro","6","Millions",,,712455,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2000","2000","EUR","Euro","6","Millions",,,751506,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2001","2001","EUR","Euro","6","Millions",,,785431,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2002","2002","EUR","Euro","6","Millions",,,817774,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2003","2003","EUR","Euro","6","Millions",,,841720,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2004","2004","EUR","Euro","6","Millions",,,871162,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2005","2005","EUR","Euro","6","Millions",,,903162,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2006","2006","EUR","Euro","6","Millions",,,942012,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2007","2007","EUR","Euro","6","Millions",,,979930,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2008","2008","EUR","Euro","6","Millions",,,1010192,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2009","2009","EUR","Euro","6","Millions",,,1013013,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2010","2010","EUR","Euro","6","Millions",,,1040212,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2011","2011","EUR","Euro","6","Millions",,,1068929,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2012","2012","EUR","Euro","6","Millions",,,1092356,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2013","2013","EUR","Euro","6","Millions",,,1109469,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2014","2014","EUR","Euro","6","Millions",,,1126701,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2015","2015","EUR","Euro","6","Millions",,,1141421,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2016","2016","EUR","Euro","6","Millions",,,1163287,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2017","2017","EUR","Euro","6","Millions",,,1199841,,
+"FRA","France","D1","Compensation of employees","C","Current prices","2018","2018","EUR","Euro","6","Millions",,,1232567,"P","Provisional value"
+"FRA","France","D1","Compensation of employees","C","Current prices","2019","2019","EUR","Euro","6","Millions",,,1242913,"P","Provisional value"
+"FRA","France","D1","Compensation of employees","C","Current prices","2020","2020","EUR","Euro","6","Millions",,,1197053,"P","Provisional value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1970","1970","EUR","Euro","6","Millions",,,205869.422,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1971","1971","EUR","Euro","6","Millions",,,233343.993,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1972","1972","EUR","Euro","6","Millions",,,258707.713,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1973","1973","EUR","Euro","6","Millions",,,294446.994,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1974","1974","EUR","Euro","6","Millions",,,325707.695,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1975","1975","EUR","Euro","6","Millions",,,340338.463,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1976","1976","EUR","Euro","6","Millions",,,367857.708,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1977","1977","EUR","Euro","6","Millions",,,394930.213,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1978","1978","EUR","Euro","6","Millions",,,421622.988,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1979","1979","EUR","Euro","6","Millions",,,456535.797,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1980","1980","EUR","Euro","6","Millions",,,496251.072,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1981","1981","EUR","Euro","6","Millions",,,520430.929,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1982","1982","EUR","Euro","6","Millions",,,536759.312,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1983","1983","EUR","Euro","6","Millions",,,548676.128,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1984","1984","EUR","Euro","6","Millions",,,570153.202,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1985","1985","EUR","Euro","6","Millions",,,592948.162,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1986","1986","EUR","Euro","6","Millions",,,624476.908,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1987","1987","EUR","Euro","6","Millions",,,652833.793,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1988","1988","EUR","Euro","6","Millions",,,680274.859,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1989","1989","EUR","Euro","6","Millions",,,711747.762,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1990","1990","EUR","Euro","6","Millions",,,770103.305,"E","Estimated value"
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1991","1991","EUR","Euro","6","Millions",,,853459,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1992","1992","EUR","Euro","6","Millions",,,926427,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1993","1993","EUR","Euro","6","Millions",,,948855,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1994","1994","EUR","Euro","6","Millions",,,974663,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1995","1995","EUR","Euro","6","Millions",,,1011385,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1996","1996","EUR","Euro","6","Millions",,,1020661,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1997","1997","EUR","Euro","6","Millions",,,1024739,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1998","1998","EUR","Euro","6","Millions",,,1046887,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","1999","1999","EUR","Euro","6","Millions",,,1077083,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2000","2000","EUR","Euro","6","Millions",,,1120347,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2001","2001","EUR","Euro","6","Millions",,,1138370,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2002","2002","EUR","Euro","6","Millions",,,1145070,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2003","2003","EUR","Euro","6","Millions",,,1148715,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2004","2004","EUR","Euro","6","Millions",,,1152296,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2005","2005","EUR","Euro","6","Millions",,,1150761,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2006","2006","EUR","Euro","6","Millions",,,1170728,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2007","2007","EUR","Euro","6","Millions",,,1204279,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2008","2008","EUR","Euro","6","Millions",,,1250708,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2009","2009","EUR","Euro","6","Millions",,,1256914,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2010","2010","EUR","Euro","6","Millions",,,1293606,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2011","2011","EUR","Euro","6","Millions",,,1349842,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2012","2012","EUR","Euro","6","Millions",,,1403513,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2013","2013","EUR","Euro","6","Millions",,,1444171,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2014","2014","EUR","Euro","6","Millions",,,1501769,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2015","2015","EUR","Euro","6","Millions",,,1561976,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2016","2016","EUR","Euro","6","Millions",,,1622728,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2017","2017","EUR","Euro","6","Millions",,,1693196,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2018","2018","EUR","Euro","6","Millions",,,1770856,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2019","2019","EUR","Euro","6","Millions",,,1845183,,
+"DEU","Germany","D1","Compensation of employees","C","Current prices","2020","2020","EUR","Euro","6","Millions",,,1841601,"P","Provisional value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1970","1970","ISK","Iceland Krona","6","Millions",,,221.357,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1971","1971","ISK","Iceland Krona","6","Millions",,,288.556,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1972","1972","ISK","Iceland Krona","6","Millions",,,352.489,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1973","1973","ISK","Iceland Krona","6","Millions",,,491.064,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1974","1974","ISK","Iceland Krona","6","Millions",,,737.665,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1975","1975","ISK","Iceland Krona","6","Millions",,,986.62,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1976","1976","ISK","Iceland Krona","6","Millions",,,1339.393,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1977","1977","ISK","Iceland Krona","6","Millions",,,1977.456,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1978","1978","ISK","Iceland Krona","6","Millions",,,3153.334,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1979","1979","ISK","Iceland Krona","6","Millions",,,4792.954,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1980","1980","ISK","Iceland Krona","6","Millions",,,7581.413,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1981","1981","ISK","Iceland Krona","6","Millions",,,11766.691,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1982","1982","ISK","Iceland Krona","6","Millions",,,18431.476,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1983","1983","ISK","Iceland Krona","6","Millions",,,28969.847,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1984","1984","ISK","Iceland Krona","6","Millions",,,37645.815,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1985","1985","ISK","Iceland Krona","6","Millions",,,55184.021,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1986","1986","ISK","Iceland Krona","6","Millions",,,73040.2,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1987","1987","ISK","Iceland Krona","6","Millions",,,107884.903,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1988","1988","ISK","Iceland Krona","6","Millions",,,133648.124,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1989","1989","ISK","Iceland Krona","6","Millions",,,150593.171,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1990","1990","ISK","Iceland Krona","6","Millions",,,171806.818,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1991","1991","ISK","Iceland Krona","6","Millions",,,196942.484,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1992","1992","ISK","Iceland Krona","6","Millions",,,199445.221,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1993","1993","ISK","Iceland Krona","6","Millions",,,198569.191,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1994","1994","ISK","Iceland Krona","6","Millions",,,206388.166,"E","Estimated value"
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1995","1995","ISK","Iceland Krona","6","Millions",,,225011.428,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1996","1996","ISK","Iceland Krona","6","Millions",,,248636.632,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1997","1997","ISK","Iceland Krona","6","Millions",,,260110.548,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1998","1998","ISK","Iceland Krona","6","Millions",,,301228.22,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","1999","1999","ISK","Iceland Krona","6","Millions",,,338388.726,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2000","2000","ISK","Iceland Krona","6","Millions",,,374845.048,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2001","2001","ISK","Iceland Krona","6","Millions",,,415013.386,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2002","2002","ISK","Iceland Krona","6","Millions",,,444576.458,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2003","2003","ISK","Iceland Krona","6","Millions",,,470946.625,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2004","2004","ISK","Iceland Krona","6","Millions",,,515455.829,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2005","2005","ISK","Iceland Krona","6","Millions",,,579255.859,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2006","2006","ISK","Iceland Krona","6","Millions",,,678260.198,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2007","2007","ISK","Iceland Krona","6","Millions",,,774471.629,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2008","2008","ISK","Iceland Krona","6","Millions",,,804805.031,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2009","2009","ISK","Iceland Krona","6","Millions",,,735694.295,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2010","2010","ISK","Iceland Krona","6","Millions",,,774964.506,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2011","2011","ISK","Iceland Krona","6","Millions",,,849320.247,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2012","2012","ISK","Iceland Krona","6","Millions",,,903533.452,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2013","2013","ISK","Iceland Krona","6","Millions",,,978164.367,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2014","2014","ISK","Iceland Krona","6","Millions",,,1041553.975,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2015","2015","ISK","Iceland Krona","6","Millions",,,1157381.057,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2016","2016","ISK","Iceland Krona","6","Millions",,,1295457.976,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2017","2017","ISK","Iceland Krona","6","Millions",,,1425442.807,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2018","2018","ISK","Iceland Krona","6","Millions",,,1562976.756,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2019","2019","ISK","Iceland Krona","6","Millions",,,1615661.06,,
+"ISL","Iceland","D1","Compensation of employees","C","Current prices","2020","2020","ISK","Iceland Krona","6","Millions",,,1588194.833,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1970","1970","CHF","Swiss Franc","6","Millions",,,51693.322,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1971","1971","CHF","Swiss Franc","6","Millions",,,60103.061,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1972","1972","CHF","Swiss Franc","6","Millions",,,68314.801,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1973","1973","CHF","Swiss Franc","6","Millions",,,77881.27,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1974","1974","CHF","Swiss Franc","6","Millions",,,86588.008,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1975","1975","CHF","Swiss Franc","6","Millions",,,88734.731,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1976","1976","CHF","Swiss Franc","6","Millions",,,89287.044,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1977","1977","CHF","Swiss Franc","6","Millions",,,91381.663,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1978","1978","CHF","Swiss Franc","6","Millions",,,96065.898,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1979","1979","CHF","Swiss Franc","6","Millions",,,101182.604,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1980","1980","CHF","Swiss Franc","6","Millions",,,109055.662,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1981","1981","CHF","Swiss Franc","6","Millions",,,118147.504,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1982","1982","CHF","Swiss Franc","6","Millions",,,126769.842,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1983","1983","CHF","Swiss Franc","6","Millions",,,132346.089,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1984","1984","CHF","Swiss Franc","6","Millions",,,137536.415,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1985","1985","CHF","Swiss Franc","6","Millions",,,145952.379,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1986","1986","CHF","Swiss Franc","6","Millions",,,155191.779,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1987","1987","CHF","Swiss Franc","6","Millions",,,163079.423,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1988","1988","CHF","Swiss Franc","6","Millions",,,173348.633,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1989","1989","CHF","Swiss Franc","6","Millions",,,186041.714,"E","Estimated value"
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1990","1990","CHF","Swiss Franc","6","Millions",,,202948.969,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1991","1991","CHF","Swiss Franc","6","Millions",,,217898.695,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1992","1992","CHF","Swiss Franc","6","Millions",,,224877.754,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1993","1993","CHF","Swiss Franc","6","Millions",,,227597.029,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1994","1994","CHF","Swiss Franc","6","Millions",,,228944.449,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1995","1995","CHF","Swiss Franc","6","Millions",,,234360.038,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1996","1996","CHF","Swiss Franc","6","Millions",,,234925.887,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1997","1997","CHF","Swiss Franc","6","Millions",,,237730.04,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1998","1998","CHF","Swiss Franc","6","Millions",,,241918.193,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","1999","1999","CHF","Swiss Franc","6","Millions",,,246718.052,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2000","2000","CHF","Swiss Franc","6","Millions",,,256653.181,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2001","2001","CHF","Swiss Franc","6","Millions",,,271230.372,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2002","2002","CHF","Swiss Franc","6","Millions",,,278987.314,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2003","2003","CHF","Swiss Franc","6","Millions",,,279988.553,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2004","2004","CHF","Swiss Franc","6","Millions",,,282527.268,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2005","2005","CHF","Swiss Franc","6","Millions",,,291136.248,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2006","2006","CHF","Swiss Franc","6","Millions",,,302428.529,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2007","2007","CHF","Swiss Franc","6","Millions",,,318909.45,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2008","2008","CHF","Swiss Franc","6","Millions",,,334710.193,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2009","2009","CHF","Swiss Franc","6","Millions",,,342394.292,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2010","2010","CHF","Swiss Franc","6","Millions",,,345311.644,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2011","2011","CHF","Swiss Franc","6","Millions",,,358318.324,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2012","2012","CHF","Swiss Franc","6","Millions",,,367571.103,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2013","2013","CHF","Swiss Franc","6","Millions",,,376188.402,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2014","2014","CHF","Swiss Franc","6","Millions",,,382062.809,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2015","2015","CHF","Swiss Franc","6","Millions",,,389241.279,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2016","2016","CHF","Swiss Franc","6","Millions",,,393812.49,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2017","2017","CHF","Swiss Franc","6","Millions",,,399170.574,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2018","2018","CHF","Swiss Franc","6","Millions",,,407535.423,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2019","2019","CHF","Swiss Franc","6","Millions",,,419797.745,,
+"CHE","Switzerland","D1","Compensation of employees","C","Current prices","2020","2020","CHF","Swiss Franc","6","Millions",,,411823.837,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1970","1970","GBP","Pound Sterling","6","Millions",,,30759.188,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1971","1971","GBP","Pound Sterling","6","Millions",,,33738.182,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1972","1972","GBP","Pound Sterling","6","Millions",,,38108.844,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1973","1973","GBP","Pound Sterling","6","Millions",,,44170.178,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1974","1974","GBP","Pound Sterling","6","Millions",,,52790.095,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1975","1975","GBP","Pound Sterling","6","Millions",,,69043.621,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1976","1976","GBP","Pound Sterling","6","Millions",,,78561.551,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1977","1977","GBP","Pound Sterling","6","Millions",,,87087.151,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1978","1978","GBP","Pound Sterling","6","Millions",,,99364.338,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1979","1979","GBP","Pound Sterling","6","Millions",,,116478.751,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1980","1980","GBP","Pound Sterling","6","Millions",,,138487.585,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1981","1981","GBP","Pound Sterling","6","Millions",,,150341.35,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1982","1982","GBP","Pound Sterling","6","Millions",,,159478.001,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1983","1983","GBP","Pound Sterling","6","Millions",,,170785.936,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1984","1984","GBP","Pound Sterling","6","Millions",,,182516.288,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1985","1985","GBP","Pound Sterling","6","Millions",,,198025.316,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1986","1986","GBP","Pound Sterling","6","Millions",,,213601.57,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1987","1987","GBP","Pound Sterling","6","Millions",,,231149.437,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1988","1988","GBP","Pound Sterling","6","Millions",,,258121.922,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1989","1989","GBP","Pound Sterling","6","Millions",,,287234.586,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1990","1990","GBP","Pound Sterling","6","Millions",,,316841.601,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1991","1991","GBP","Pound Sterling","6","Millions",,,336489.465,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1992","1992","GBP","Pound Sterling","6","Millions",,,348359.172,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1993","1993","GBP","Pound Sterling","6","Millions",,,357429.345,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1994","1994","GBP","Pound Sterling","6","Millions",,,370009.711,"E","Estimated value"
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1995","1995","GBP","Pound Sterling","6","Millions",,,386841,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1996","1996","GBP","Pound Sterling","6","Millions",,,405278,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1997","1997","GBP","Pound Sterling","6","Millions",,,439074,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1998","1998","GBP","Pound Sterling","6","Millions",,,463534,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","1999","1999","GBP","Pound Sterling","6","Millions",,,501216,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2000","2000","GBP","Pound Sterling","6","Millions",,,536745,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2001","2001","GBP","Pound Sterling","6","Millions",,,569201,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2002","2002","GBP","Pound Sterling","6","Millions",,,586474,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2003","2003","GBP","Pound Sterling","6","Millions",,,617291,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2004","2004","GBP","Pound Sterling","6","Millions",,,657720,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2005","2005","GBP","Pound Sterling","6","Millions",,,693563,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2006","2006","GBP","Pound Sterling","6","Millions",,,739681,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2007","2007","GBP","Pound Sterling","6","Millions",,,785934,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2008","2008","GBP","Pound Sterling","6","Millions",,,797187,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2009","2009","GBP","Pound Sterling","6","Millions",,,789358,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2010","2010","GBP","Pound Sterling","6","Millions",,,811467,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2011","2011","GBP","Pound Sterling","6","Millions",,,827698,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2012","2012","GBP","Pound Sterling","6","Millions",,,843093,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2013","2013","GBP","Pound Sterling","6","Millions",,,880999,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2014","2014","GBP","Pound Sterling","6","Millions",,,903674,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2015","2015","GBP","Pound Sterling","6","Millions",,,929699,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2016","2016","GBP","Pound Sterling","6","Millions",,,966821,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2017","2017","GBP","Pound Sterling","6","Millions",,,1006970,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2018","2018","GBP","Pound Sterling","6","Millions",,,1048244,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2019","2019","GBP","Pound Sterling","6","Millions",,,1098576,,
+"GBR","United Kingdom","D1","Compensation of employees","C","Current prices","2020","2020","GBP","Pound Sterling","6","Millions",,,1126956,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1970","1970","EUR","Euro","6","Millions",,,15829.093,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1971","1971","EUR","Euro","6","Millions",,,18195.09,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1972","1972","EUR","Euro","6","Millions",,,20273.9,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1973","1973","EUR","Euro","6","Millions",,,24368.154,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1974","1974","EUR","Euro","6","Millions",,,30457.892,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1975","1975","EUR","Euro","6","Millions",,,36731.142,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1976","1976","EUR","Euro","6","Millions",,,45121.668,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1977","1977","EUR","Euro","6","Millions",,,55030.39,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1978","1978","EUR","Euro","6","Millions",,,63739.69,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1979","1979","EUR","Euro","6","Millions",,,77292.023,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1980","1980","EUR","Euro","6","Millions",,,95137.625,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1981","1981","EUR","Euro","6","Millions",,,115692.608,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1982","1982","EUR","Euro","6","Millions",,,134742.573,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1983","1983","EUR","Euro","6","Millions",,,154794.882,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1984","1984","EUR","Euro","6","Millions",,,172673.524,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1985","1985","EUR","Euro","6","Millions",,,192838.034,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1986","1986","EUR","Euro","6","Millions",,,208362.79,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1987","1987","EUR","Euro","6","Millions",,,226014.318,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1988","1988","EUR","Euro","6","Millions",,,247991.671,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1989","1989","EUR","Euro","6","Millions",,,271690.207,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1990","1990","EUR","Euro","6","Millions",,,304022.952,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1991","1991","EUR","Euro","6","Millions",,,333120.484,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1992","1992","EUR","Euro","6","Millions",,,351676.883,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1993","1993","EUR","Euro","6","Millions",,,358563.167,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1994","1994","EUR","Euro","6","Millions",,,366720.863,"E","Estimated value"
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1995","1995","EUR","Euro","6","Millions",,,381080.4,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1996","1996","EUR","Euro","6","Millions",,,406927.5,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1997","1997","EUR","Euro","6","Millions",,,426476.6,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1998","1998","EUR","Euro","6","Millions",,,424904.5,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","1999","1999","EUR","Euro","6","Millions",,,440169.7,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2000","2000","EUR","Euro","6","Millions",,,457940.4,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2001","2001","EUR","Euro","6","Millions",,,482845.6,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2002","2002","EUR","Euro","6","Millions",,,505286.2,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2003","2003","EUR","Euro","6","Millions",,,526410,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2004","2004","EUR","Euro","6","Millions",,,545614.2,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2005","2005","EUR","Euro","6","Millions",,,569230,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2006","2006","EUR","Euro","6","Millions",,,594845.3,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2007","2007","EUR","Euro","6","Millions",,,617344.5,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2008","2008","EUR","Euro","6","Millions",,,639277.3,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2009","2009","EUR","Euro","6","Millions",,,634819.4,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2010","2010","EUR","Euro","6","Millions",,,642624.6,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2011","2011","EUR","Euro","6","Millions",,,651477.1,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2012","2012","EUR","Euro","6","Millions",,,642568,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2013","2013","EUR","Euro","6","Millions",,,636555.3,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2014","2014","EUR","Euro","6","Millions",,,638359.4,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2015","2015","EUR","Euro","6","Millions",,,651583.2,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2016","2016","EUR","Euro","6","Millions",,,667222.2,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2017","2017","EUR","Euro","6","Millions",,,684054.1,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2018","2018","EUR","Euro","6","Millions",,,706969.8,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2019","2019","EUR","Euro","6","Millions",,,719935.9,,
+"ITA","Italy","D1","Compensation of employees","C","Current prices","2020","2020","EUR","Euro","6","Millions",,,670495.9,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1970","1970","JPY","Yen","6","Millions",,,31294269.055,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1971","1971","JPY","Yen","6","Millions",,,37105508.213,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1972","1972","JPY","Yen","6","Millions",,,43197365.062,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1973","1973","JPY","Yen","6","Millions",,,54141258.78,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1974","1974","JPY","Yen","6","Millions",,,68692071.01,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1975","1975","JPY","Yen","6","Millions",,,80046000.158,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1976","1976","JPY","Yen","6","Millions",,,90288251.53,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1977","1977","JPY","Yen","6","Millions",,,100860081.512,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1978","1978","JPY","Yen","6","Millions",,,108988771.455,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1979","1979","JPY","Yen","6","Millions",,,117802325.554,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1980","1980","JPY","Yen","6","Millions",,,127944005.901,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1981","1981","JPY","Yen","6","Millions",,,138530261.856,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1982","1982","JPY","Yen","6","Millions",,,146403248.249,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1983","1983","JPY","Yen","6","Millions",,,153923962.042,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1984","1984","JPY","Yen","6","Millions",,,162368823.389,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1985","1985","JPY","Yen","6","Millions",,,169825424.754,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1986","1986","JPY","Yen","6","Millions",,,177015500.185,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1987","1987","JPY","Yen","6","Millions",,,183192915.372,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1988","1988","JPY","Yen","6","Millions",,,193852866.044,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1989","1989","JPY","Yen","6","Millions",,,207714980.586,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1990","1990","JPY","Yen","6","Millions",,,224687782.714,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1991","1991","JPY","Yen","6","Millions",,,242719477.161,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1992","1992","JPY","Yen","6","Millions",,,250599773.755,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1993","1993","JPY","Yen","6","Millions",,,256019002.679,"E","Estimated value"
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1994","1994","JPY","Yen","6","Millions",,,261058200,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1995","1995","JPY","Yen","6","Millions",,,265450500,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1996","1996","JPY","Yen","6","Millions",,,270062200,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1997","1997","JPY","Yen","6","Millions",,,278111100,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1998","1998","JPY","Yen","6","Millions",,,273945600,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","1999","1999","JPY","Yen","6","Millions",,,268671400,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2000","2000","JPY","Yen","6","Millions",,,269350100,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2001","2001","JPY","Yen","6","Millions",,,266119100,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2002","2002","JPY","Yen","6","Millions",,,256993600,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2003","2003","JPY","Yen","6","Millions",,,254788700,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2004","2004","JPY","Yen","6","Millions",,,254380100,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2005","2005","JPY","Yen","6","Millions",,,257791600,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2006","2006","JPY","Yen","6","Millions",,,261061500,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2007","2007","JPY","Yen","6","Millions",,,262620300,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2008","2008","JPY","Yen","6","Millions",,,264408400,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2009","2009","JPY","Yen","6","Millions",,,252178900,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2010","2010","JPY","Yen","6","Millions",,,252766700,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2011","2011","JPY","Yen","6","Millions",,,254134900,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2012","2012","JPY","Yen","6","Millions",,,254048500,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2013","2013","JPY","Yen","6","Millions",,,255532600,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2014","2014","JPY","Yen","6","Millions",,,259803700,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2015","2015","JPY","Yen","6","Millions",,,263206400,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2016","2016","JPY","Yen","6","Millions",,,270260900,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2017","2017","JPY","Yen","6","Millions",,,274733700,,
+"JPN","Japan","D1","Compensation of employees","C","Current prices","2018","2018","JPY","Yen","6","Millions",,,283579700,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1970","1970","USD","US Dollar","6","Millions",,,623323.699,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1971","1971","USD","US Dollar","6","Millions",,,664974.044,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1972","1972","USD","US Dollar","6","Millions",,,731333.843,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1973","1973","USD","US Dollar","6","Millions",,,812695.62,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1974","1974","USD","US Dollar","6","Millions",,,887737.22,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1975","1975","USD","US Dollar","6","Millions",,,947273.118,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1976","1976","USD","US Dollar","6","Millions",,,1048384.144,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1977","1977","USD","US Dollar","6","Millions",,,1165887.075,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1978","1978","USD","US Dollar","6","Millions",,,1316863.858,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1979","1979","USD","US Dollar","6","Millions",,,1477302.093,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1980","1980","USD","US Dollar","6","Millions",,,1622345.314,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1981","1981","USD","US Dollar","6","Millions",,,1792680.954,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1982","1982","USD","US Dollar","6","Millions",,,1893174.518,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1983","1983","USD","US Dollar","6","Millions",,,2012661.791,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1984","1984","USD","US Dollar","6","Millions",,,2216082.802,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1985","1985","USD","US Dollar","6","Millions",,,2387539.431,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1986","1986","USD","US Dollar","6","Millions",,,2543845.333,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1987","1987","USD","US Dollar","6","Millions",,,2723761.478,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1988","1988","USD","US Dollar","6","Millions",,,2948854.27,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1989","1989","USD","US Dollar","6","Millions",,,3140886.184,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1990","1990","USD","US Dollar","6","Millions",,,3342680.401,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1991","1991","USD","US Dollar","6","Millions",,,3453266.621,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1992","1992","USD","US Dollar","6","Millions",,,3671211.099,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1993","1993","USD","US Dollar","6","Millions",,,3820609.703,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1994","1994","USD","US Dollar","6","Millions",,,4010207.459,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1995","1995","USD","US Dollar","6","Millions",,,4202178.1,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1996","1996","USD","US Dollar","6","Millions",,,4421066.987,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1997","1997","USD","US Dollar","6","Millions",,,4713220.052,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1998","1998","USD","US Dollar","6","Millions",,,5075701.242,,
+"USA","United States","D1","Compensation of employees","C","Current prices","1999","1999","USD","US Dollar","6","Millions",,,5409932.194,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2000","2000","USD","US Dollar","6","Millions",,,5854629.462,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2001","2001","USD","US Dollar","6","Millions",,,6046342.886,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2002","2002","USD","US Dollar","6","Millions",,,6143368.266,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2003","2003","USD","US Dollar","6","Millions",,,6362296.091,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2004","2004","USD","US Dollar","6","Millions",,,6729300.765,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2005","2005","USD","US Dollar","6","Millions",,,7077721.377,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2006","2006","USD","US Dollar","6","Millions",,,7491255.245,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2007","2007","USD","US Dollar","6","Millions",,,7889368.532,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2008","2008","USD","US Dollar","6","Millions",,,8068679.275,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2009","2009","USD","US Dollar","6","Millions",,,7767191.194,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2010","2010","USD","US Dollar","6","Millions",,,7932969.343,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2011","2011","USD","US Dollar","6","Millions",,,8234012.877,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2012","2012","USD","US Dollar","6","Millions",,,8575371.192,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2013","2013","USD","US Dollar","6","Millions",,,8843637.719,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2014","2014","USD","US Dollar","6","Millions",,,9259654.505,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2015","2015","USD","US Dollar","6","Millions",,,9709234.087,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2016","2016","USD","US Dollar","6","Millions",,,9972728.068,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2017","2017","USD","US Dollar","6","Millions",,,10424470.671,,
+"USA","United States","D1","Compensation of employees","C","Current prices","2018","2018","USD","US Dollar","6","Millions",,,10941365.92,,
