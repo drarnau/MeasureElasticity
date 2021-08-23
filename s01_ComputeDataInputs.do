@@ -474,6 +474,10 @@ foreach var of varlist c_y tau_ss tau_inc {
 	bysort country (`var'_avg_table_4): replace `var'_avg_table_4 = `var'_avg_table_4[1]
 }
 
+*Fill alpha averages
+bysort country (alpha_avg_table_1): replace alpha_avg_table_1 = alpha_avg_table_1[1]
+bysort country (alpha_avg_table_4): replace alpha_avg_table_4 = alpha_avg_table_4[1]
+
 *Only keep one row per country
 duplicates drop country, force
 
