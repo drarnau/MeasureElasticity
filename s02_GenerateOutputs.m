@@ -40,13 +40,6 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     ylabel('Measured Elasticity ($\xi$)','Interpreter','Latex','Fontsize',16);
     xlim([min(phi_grid) max(phi_grid)])
     ylim([0 0.5])
-    if string(model_inputs{i,1}) == 'Iceland'
-        yline(0.37,'--','0.37','LineWidth',2,'Fontsize',16);
-        yline(0.42,'--','0.42','LineWidth',2,'Fontsize',16);
-    elseif string(model_inputs{i,1}) == 'Switzerland'
-        yline(0.025,'--','0.025','LineWidth',2,'Fontsize',16);
-        yline(0.2,'--','0.2','LineWidth',2,'Fontsize',16);
-    end
     
     % Save plots
     if string(model_inputs{i,1}) == 'Iceland'
@@ -63,13 +56,6 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     ylabel('Measured Elasticity ($\xi$)','Interpreter','Latex','Fontsize',16);
     xlim([min(phi_grid) max(phi_grid)])
     ylim([0 0.5])
-    if string(model_inputs{i,1}) == 'Iceland'
-        yline(0.37,'--','0.37','LineWidth',2,'Fontsize',16);
-        yline(0.42,'--','0.42','LineWidth',2,'Fontsize',16);
-    elseif string(model_inputs{i,1}) == 'Switzerland'
-        yline(0.025,'--','0.025','LineWidth',2,'Fontsize',16);
-        yline(0.2,'--','0.2','LineWidth',2,'Fontsize',16);
-    end
     
     % Save plots
     if string(model_inputs{i,1}) == 'Iceland'
@@ -99,13 +85,6 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     ylabel('Measured Elasticity ($\xi$)','Interpreter','Latex','Fontsize',16);
     xlim([min(phi_grid) max(phi_grid)])
     ylim([0 0.5])
-    if string(model_inputs{i,1}) == 'Iceland'
-        yline(0.37,'--','0.37','LineWidth',2,'Fontsize',16);
-        yline(0.42,'--','0.42','LineWidth',2,'Fontsize',16);
-    elseif string(model_inputs{i,1}) == 'Switzerland'
-        yline(0.025,'--','0.025','LineWidth',2,'Fontsize',16);
-        yline(0.2,'--','0.2','LineWidth',2,'Fontsize',16);
-    end
     
     % Save plots
     if string(model_inputs{i,1}) == 'Iceland'
@@ -124,13 +103,6 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     ylabel('Measured Elasticity ($\xi$)','Interpreter','Latex','Fontsize',16);
     xlim([min(phi_grid) max(phi_grid)])
     ylim([0 0.5])
-    if string(model_inputs{i,1}) == 'Iceland'
-        yline(0.37,'--','0.37','LineWidth',2,'Fontsize',16);
-        yline(0.42,'--','0.42','LineWidth',2,'Fontsize',16);
-    elseif string(model_inputs{i,1}) == 'Switzerland'
-        yline(0.025,'--','0.025','LineWidth',2,'Fontsize',16);
-        yline(0.2,'--','0.2','LineWidth',2,'Fontsize',16);
-    end
     
     % Save plots
     if string(model_inputs{i,1}) == 'Iceland'
@@ -212,7 +184,7 @@ for i=1:size(dataset,1)
     elast_loglin_pe = @(phi,gamma) (1./((1./phi)+gamma*(1-dataset(i,2))*(1/dataset(i,1))))* ...
         (1-gamma*(1/dataset(i,1)));
     elast_loglin_ge = @(phi,gamma) (1./((1./phi)+gamma*(1-dataset(i,2))*(1/dataset(i,1))+dataset(i,2)))* ...
-        (1-gamma*(1/dataset(i,1)));;
+        (1-gamma*(1/dataset(i,1)));
     
     % Fill cell array with lower and upper bounds (Frisch between 1 and 3 and gamma between 0.5 and 2.5)
     elasticities{i,6} = elast_loglin_pe(1,2.5);

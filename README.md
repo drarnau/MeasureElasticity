@@ -3,11 +3,11 @@
 [This repository](https://github.com/drarnau/MeasureElasticity) contains all files necessary to replicate the results in [_On the Measurement of the Elasticity of Labour_](https://arnau.eu/MeasureElasticity.pdf) by [Charles Gottlieb](https://sites.google.com/site/gottliebcharles/Charles-Gottlieb), Joern Onken, and [Arnau Valladares-Esteban](https://arnau.eu).
 
 Proceed as follows to replicate all the tables and figures in the paper.
-  1. Execute the STATA do-file `01_ComputeDataInputs.do`. The do-file:
+  1. Execute the STATA do-file `s01_ComputeDataInputs.do`. The do-file:
     - Reads all the necessary raw data from the CSV files in `/RawData/`.
     - Creates Tables 1 and 4 of the paper in latex format.
     - Create a CSV file named `DataInputs.csv` with all the parametrisation inputs.
-  2. Execute the Matlab file `02_GenerateOutputs.m`. The m-file:
+  2. Execute the Matlab file `s02_GenerateOutputs.m`. The m-file:
     - Reads the data in `DataInputs.csv`.
     - Produces all plots in Figures 1 and 2 in `.eps` format.
     - Produces Tables 2 and 3 of the paper in latex format.
