@@ -17,7 +17,7 @@ data_bounds = round(cell2mat(data(:,2:9)),2);
 % Print LaTeX table
 fid = fopen(name, 'w');
 fprintf(fid, '\\begin{tabular}{lcccc} \n');
-fprintf(fid, '& \\multicolumn{2}{c}{GHH preferences}   & \\multicolumn{2}{c}{KPR preferences}   \\tabularnewline \n');
+fprintf(fid, '& \\multicolumn{2}{c}{GHH preferences}   & \\multicolumn{2}{c}{MaC preferences}   \\tabularnewline \n');
 fprintf(fid, '& PE                & GE                & PE                & GE                \\tabularnewline \n');
 fprintf(fid, '\\hline \n');
 fprintf(fid, '\\hline \n');

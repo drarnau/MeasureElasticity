@@ -12,13 +12,13 @@ model_inputs = readtable('DataInputs.csv');
 
 
 %% Create Figures 1 and 2
-% Plot PE and GE elasticities (GHH and KPR preferences) for Switzerland and Iceland
+% Plot PE and GE elasticities (GHH and MaC preferences) for Switzerland and Iceland
 % Using tax holiday years (1995-2005 for Switzerland and 2000-2010 for Iceland)
 
 % Use the averages reported in Table 1
 dataset = table2array(model_inputs(:,2:5));
 
-% Values of gamma (for KPR)
+% Values of gamma (for MaC)
 gamma = [0.5 1 2.5]'; %do log consumption (gamma = 1) and 0.5 and 2.5 for CI-bands
 
 % Set grid for Frisch elasticity phi
@@ -66,7 +66,7 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     
 end
 
-% Figure 2 (KPR preferences)
+% Figure 2 (MaC preferences)
 for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs.country,'Switzerland'))]
     
     % Compute elasticities for each Frisch on grid, using data
@@ -88,9 +88,9 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     
     % Save plots
     if string(model_inputs{i,1}) == 'Iceland'
-        saveas(gcf,[figures_path 'Figure_2b_KPR_PE_' char(model_inputs{i,1}) '.eps'],'epsc');
+        saveas(gcf,[figures_path 'Figure_2b_MaC_PE_' char(model_inputs{i,1}) '.eps'],'epsc');
     elseif string(model_inputs{i,1}) == 'Switzerland'
-        saveas(gcf,[figures_path 'Figure_2d_KPR_PE_' char(model_inputs{i,1}) '.eps'],'epsc');
+        saveas(gcf,[figures_path 'Figure_2d_MaC_PE_' char(model_inputs{i,1}) '.eps'],'epsc');
     end
     
     % Plot GE tax holiday elasticities
@@ -106,9 +106,9 @@ for i=[find(contains(model_inputs.country,'Iceland')) find(contains(model_inputs
     
     % Save plots
     if string(model_inputs{i,1}) == 'Iceland'
-        saveas(gcf,[figures_path 'Figure_2a_KPR_GE_' char(model_inputs{i,1}) '.eps'],'epsc');
+        saveas(gcf,[figures_path 'Figure_2a_MaC_GE_' char(model_inputs{i,1}) '.eps'],'epsc');
     elseif string(model_inputs{i,1}) == 'Switzerland'
-        saveas(gcf,[figures_path 'Figure_2c_KPR_GE_' char(model_inputs{i,1}) '.eps'],'epsc');
+        saveas(gcf,[figures_path 'Figure_2c_MaC_GE_' char(model_inputs{i,1}) '.eps'],'epsc');
     end
     
 end
@@ -137,7 +137,7 @@ for i=1:size(dataset,1)
     
 end
 
-% KPR preferences
+% MaC preferences
 for i=1:size(dataset,1)
     
     % Compute tax elasticities for each Frisch on grid, using data
@@ -177,7 +177,7 @@ for i=1:size(dataset,1)
     
 end
 
-% KPR preferences
+% MaC preferences
 for i=1:size(dataset,1)
     
     % Compute TFP elasticities for each Frisch on grid, using data
