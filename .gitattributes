@@ -1,0 +1,2 @@
+*.do linguist-detectable=false
+*.tex linguist-detectable=false
